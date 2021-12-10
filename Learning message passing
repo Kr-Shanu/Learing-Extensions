@@ -1,0 +1,8 @@
+Here in i have used the message passing technique to send message from my index.js
+which is scripted in the main popup html file index.html and sent the message 
+request to background.js which is the active working java script file in the 
+background of the extension !!
+
+
+However the experiment was successful but i couldnot see the console log of 
+the index.js but was able to see the console log of the background.js.
