@@ -6,3 +6,10 @@ background of the extension !!
 
 However the experiment was successful but i couldnot see the console log of 
 the index.js but was able to see the console log of the background.js.
+
+
+11/12/2021:
+Today i was able to add up multiple message passing in the extension and it was very successful.
+I used the type of the request that i was passing and now it's done.
+Further more i tried to add on multiple alarm system with the same procedure as multiple message passing.
+Eventually i failed to do so as i was not able to do anything as such in it.
